@@ -1,7 +1,7 @@
 # excel-sales-analysis-dashboard
 Interactive Sales Dashboard built in Microsoft Excel using Pivot Tables, Slicers, and Data Modeling. Visualizes revenue trends, top-performing products, city-wise orders, and delivery timelines for deeper sales insights.
 
-#📊 Sales Analysis Dashboard (Excel)
+## 📊 Sales Analysis Dashboard (Excel)
 
 This project is an interactive **Sales Analysis Dashboard** built using **Microsoft Excel**, showcasing sales trends, product performance, and regional insights.
 
